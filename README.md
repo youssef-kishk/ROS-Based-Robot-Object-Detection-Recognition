@@ -1,5 +1,5 @@
 # ROS Based Robot Object detection and Recognition Module
-Brief Description of the Object detection and recognition Module for (**Benzo**), a personal assistance robot based on **ROS (Robot Operating System)** that is able to perform multiple tasks such as:
+This repository contains a brief description of the Object detection and recognition Module for (**Benzo**), a personal assistance robot based on **ROS (Robot Operating System)** that is able to perform multiple tasks such as:
 - Handling voice commands
 - Map Building
 - Objects Detection and recognition
