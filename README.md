@@ -34,6 +34,7 @@ Using the [cv_bridge](http://wiki.ros.org/cv_bridge) ROS package which converts 
  ### Detect and Recognize objects
  Using [**YOLO**](https://pjreddie.com/darknet/yolo/) pretrained on COCO dataset,
  We were able to detect different objects in each of the opencv images
+ 
  You can check YOLO details from its official papers at:
  - https://arxiv.org/pdf/1506.02640.pdf
  - https://arxiv.org/pdf/1612.08242.pdf
