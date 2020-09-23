@@ -4,6 +4,5 @@ Brief Description of the Object detection and recognition Module for (Benzo), a 
 - Map Building
 - Objects Detection and recognition
 - Navigation and Localization
-
-
-![image](http://wiki.ros.org/cv_bridge?action=AttachFile&do=get&target=cvbridge.png)
+You can check the project summary from the following video:
+[![Watch the video](https://youtu.be/AEgZd6wD7dk)
